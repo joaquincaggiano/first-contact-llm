@@ -8,7 +8,10 @@ const response = await client.chat.completions.create({
   model: MODELO,
   max_completion_tokens: 256, // límite de la respuesta, en tokens
   messages: [
-    { role: "user", content: "Explica qué es un LLM en una sola frase." },
+    {
+      role: "user",
+      content: `Explica qué es un LLM en tres párrafos`,
+    },
   ],
 });
 
