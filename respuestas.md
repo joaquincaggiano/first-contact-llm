@@ -112,7 +112,7 @@
 # Tarea 4
 - Tokens de entrada: 261
 - Palabras del prompt: 156
-- Mi reflexión sobre la diferencia es que un token corresponde a una palabra y un poquito más de otra.
+- Mi reflexión sobre la diferencia es que una palabra corresponde a un token y un poquito más.
 
 
 # Tarea 5
